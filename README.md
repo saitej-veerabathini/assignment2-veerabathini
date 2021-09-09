@@ -59,6 +59,7 @@ Now that you're hungry here are some of the  mouth-watering food items that no o
 # Intersection of two points:
 
 >When two lines share exactly one common point, they are called the intersecting lines. The intersecting lines share a common point. And, this common point that exists on all intersecting lines is called the point of intersection. The two non-parallel straight lines which are co-planar will have an intersection point. 
+
 Link: <https://www.cuemath.com/geometry/intersection-of-two-lines/>
 
 ```java
